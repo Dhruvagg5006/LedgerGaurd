@@ -1,0 +1,1201 @@
+category,amount,hour,is_weekend,requires_review
+Contractors,27483.57,13,0,0
+Travel & Commute,572.35,19,0,0
+Utilities,12528.1,2,0,1
+Travel & Commute,729.54,9,0,0
+Contractors,32615.15,17,0,0
+Food & Meals,691.46,9,0,0
+Travel & Commute,553.17,14,0,0
+Travel & Commute,915.84,14,0,0
+Food & Meals,3756.99,1,1,1
+Utilities,4113.95,15,1,0
+Hosting & Software,7295.79,18,0,0
+Hosting & Software,8813.84,10,1,0
+Travel & Commute,507.32,10,0,0
+Office Supplies,1313.71,16,0,0
+Hosting & Software,8362.94,14,0,0
+Hosting & Software,5130.08,19,0,0
+Utilities,2120.07,17,0,0
+Travel & Commute,487.54,13,0,0
+Contractors,19935.84,12,0,0
+Office Supplies,1625.7,9,0,0
+Food & Meals,522.99,12,0,0
+Utilities,2370.16,14,0,0
+Food & Meals,1116.41,19,0,0
+Hosting & Software,7661.34,17,0,0
+Contractors,25337.64,18,0,0
+Travel & Commute,315.05,11,0,0
+Office Supplies,1282.25,10,0,0
+Travel & Commute,622.18,15,0,0
+Food & Meals,462.25,16,0,0
+Utilities,3800.56,9,0,0
+Office Supplies,1259.74,17,0,0
+Contractors,23541.53,13,0,0
+Food & Meals,2110.33,3,1,1
+Utilities,3018.63,17,0,0
+Contractors,34261.39,19,0,0
+Travel & Commute,597.3,11,0,0
+Utilities,2653.83,18,0,0
+Office Supplies,1829.02,14,0,0
+Hosting & Software,6168.73,12,0,0
+Office Supplies,8310.09,17,0,1
+Travel & Commute,641.77,17,0,0
+Utilities,1932.26,15,0,0
+Utilities,2437.45,12,0,0
+Food & Meals,799.22,19,0,0
+Utilities,4090.77,12,0,0
+Hosting & Software,14761.38,2,1,1
+Office Supplies,2382.47,1,1,1
+Office Supplies,1568.55,10,0,0
+Hosting & Software,7826.53,12,0,0
+Contractors,23494.48,18,0,0
+Travel & Commute,304.3,15,0,0
+Office Supplies,1212.06,14,0,0
+Food & Meals,634.84,9,0,0
+Contractors,133013.35,3,0,1
+Travel & Commute,811.42,16,0,0
+Travel & Commute,668.72,12,0,0
+Office Supplies,794.78,17,1,0
+Contractors,26620.42,9,0,0
+Travel & Commute,522.98,16,0,0
+Food & Meals,580.77,11,0,0
+Food & Meals,902.92,16,0,0
+Contractors,30155.0,17,0,0
+Food & Meals,982.82,13,0,0
+Office Supplies,1164.31,17,1,0
+Hosting & Software,17721.46,23,1,1
+Travel & Commute,972.1,2,1,1
+Office Supplies,1376.32,19,0,0
+Food & Meals,832.82,18,0,0
+Utilities,24836.44,18,0,1
+Utilities,4280.44,13,0,0
+Contractors,22604.13,13,0,0
+Contractors,24071.71,16,0,0
+Office Supplies,4496.52,1,1,1
+Office Supplies,1057.47,17,0,0
+Hosting & Software,6205.69,12,0,0
+Travel & Commute,762.51,17,0,0
+Utilities,4584.99,19,0,0
+Contractors,24639.95,13,0,0
+Office Supplies,1901.41,11,0,0
+Office Supplies,1644.65,11,0,0
+Utilities,2983.9,14,0,0
+Contractors,26806.98,17,0,0
+Office Supplies,8360.06,1,0,1
+Hosting & Software,10307.05,19,0,0
+Travel & Commute,592.83,17,0,0
+Utilities,34038.39,11,0,1
+Utilities,17346.96,4,1,1
+Travel & Commute,3448.47,1,1,1
+Travel & Commute,912.93,19,0,0
+Utilities,1404.2,15,0,0
+Contractors,29109.51,12,0,0
+Travel & Commute,617.41,9,0,0
+Hosting & Software,7551.49,15,0,0
+Contractors,25458.8,13,0,0
+Contractors,15062.16,9,0,0
+Travel & Commute,556.07,16,0,0
+Travel & Commute,671.42,19,0,0
+Hosting & Software,10216.84,10,0,0
+Hosting & Software,7222.59,17,0,0
+Utilities,2853.21,9,0,0
+Hosting & Software,7247.36,13,1,0
+Utilities,4232.32,14,0,0
+Utilities,3763.0,18,0,0
+Office Supplies,1288.1,9,0,0
+Utilities,3910.61,19,0,0
+Food & Meals,2160.87,23,1,1
+Hosting & Software,8145.62,10,0,0
+Hosting & Software,9452.97,19,0,0
+Food & Meals,574.49,17,0,0
+Food & Meals,668.08,15,0,0
+Travel & Commute,521.58,13,0,0
+Office Supplies,914.59,12,0,0
+Utilities,3736.9,14,0,0
+Food & Meals,815.26,17,0,0
+Contractors,25025.57,10,0,0
+Contractors,23827.06,14,1,0
+Travel & Commute,316.93,12,0,0
+Travel & Commute,5951.81,18,0,1
+Office Supplies,1331.74,19,0,0
+Contractors,23286.43,16,0,0
+Travel & Commute,439.54,9,0,0
+Office Supplies,1435.49,12,0,0
+Contractors,27020.25,9,0,0
+Office Supplies,2254.47,16,0,0
+Utilities,3639.66,16,0,0
+Contractors,26287.75,15,0,0
+Utilities,3440.44,11,0,0
+Food & Meals,270.31,12,0,0
+Hosting & Software,7960.23,17,0,0
+Travel & Commute,612.05,10,0,0
+Travel & Commute,1092.65,14,0,0
+Office Supplies,1423.06,12,0,0
+Travel & Commute,660.31,10,0,0
+Hosting & Software,7947.93,15,1,0
+Food & Meals,457.83,18,0,0
+Office Supplies,1957.13,18,0,0
+Office Supplies,1800.77,13,0,0
+Food & Meals,947.76,17,0,0
+Travel & Commute,418.12,13,0,0
+Office Supplies,2061.12,19,0,0
+Food & Meals,399.54,16,0,0
+Utilities,3969.49,15,0,0
+Contractors,53572.98,4,1,1
+Travel & Commute,2591.03,14,1,1
+Hosting & Software,11285.68,15,0,0
+Food & Meals,502.37,10,0,0
+Contractors,22168.51,14,0,0
+Office Supplies,1539.86,19,1,0
+Office Supplies,1298.61,12,0,0
+Utilities,2259.47,11,0,0
+Office Supplies,1527.43,12,0,0
+Hosting & Software,6406.54,11,0,0
+Contractors,27367.96,11,0,0
+Office Supplies,1132.23,13,0,0
+Food & Meals,1137.48,12,1,0
+Contractors,21083.73,12,0,0
+Hosting & Software,7516.91,18,0,0
+Utilities,4150.81,14,0,0
+Contractors,18845.68,17,0,0
+Office Supplies,1590.98,16,0,0
+Hosting & Software,9960.71,16,0,0
+Food & Meals,348.13,17,0,0
+Hosting & Software,8276.95,17,0,0
+Food & Meals,814.97,18,0,0
+Travel & Commute,756.36,10,0,0
+Food & Meals,440.76,16,0,0
+Contractors,18397.72,9,0,0
+Hosting & Software,8782.91,12,0,0
+Hosting & Software,8445.48,18,0,0
+Hosting & Software,8375.74,17,0,0
+Office Supplies,1638.58,15,0,0
+Travel & Commute,464.0,19,0,0
+Food & Meals,808.06,10,0,0
+Food & Meals,823.27,13,0,0
+Hosting & Software,6928.47,17,0,0
+Contractors,34328.87,14,0,0
+Hosting & Software,8710.75,12,0,0
+Travel & Commute,361.74,17,0,0
+Contractors,28282.77,12,0,0
+Hosting & Software,6537.98,17,0,0
+Office Supplies,1814.83,13,0,0
+Travel & Commute,831.72,17,0,0
+Office Supplies,1171.73,17,0,0
+Travel & Commute,792.68,16,0,0
+Office Supplies,1665.11,16,0,0
+Hosting & Software,9233.09,9,0,0
+Food & Meals,1224.2,10,0,0
+Office Supplies,1401.84,19,1,0
+Travel & Commute,449.25,13,1,0
+Travel & Commute,422.1,15,0,0
+Utilities,2847.35,17,0,0
+Food & Meals,730.72,18,0,0
+Hosting & Software,8511.73,9,0,0
+Contractors,203189.38,13,0,1
+Contractors,146726.69,10,0,1
+Travel & Commute,3134.06,15,1,1
+Office Supplies,1610.68,13,0,0
+Food & Meals,7214.67,18,0,1
+Contractors,29135.92,12,0,0
+Utilities,3510.4,11,0,0
+Travel & Commute,5377.89,18,0,1
+Contractors,32267.67,13,0,0
+Food & Meals,683.84,15,0,0
+Utilities,5676.14,16,1,0
+Office Supplies,1750.27,14,0,0
+Office Supplies,4130.91,23,1,1
+Utilities,2814.27,19,0,0
+Utilities,25733.76,16,0,1
+Hosting & Software,6393.66,18,0,0
+Food & Meals,870.62,16,0,0
+Hosting & Software,7664.81,10,0,0
+Hosting & Software,9071.0,16,0,0
+Food & Meals,868.31,17,1,0
+Office Supplies,1470.87,14,0,0
+Food & Meals,538.3,9,0,0
+Utilities,2288.12,9,0,0
+Hosting & Software,7330.23,16,0,0
+Office Supplies,1842.56,17,0,0
+Hosting & Software,8321.14,16,0,0
+Contractors,18771.31,12,0,0
+Hosting & Software,8259.77,17,0,0
+Travel & Commute,677.06,10,0,0
+Office Supplies,1146.46,11,0,0
+Contractors,25768.63,13,0,0
+Food & Meals,764.55,12,0,0
+Travel & Commute,371.41,18,0,0
+Travel & Commute,671.56,13,0,0
+Food & Meals,890.2,17,0,0
+Office Supplies,1933.22,13,0,0
+Utilities,4343.04,16,0,0
+Food & Meals,405.58,14,0,0
+Utilities,2749.74,14,0,0
+Contractors,27575.18,15,0,0
+Food & Meals,1657.1,4,1,1
+Food & Meals,878.45,19,0,0
+Food & Meals,878.76,11,0,0
+Utilities,6582.19,10,0,0
+Food & Meals,2653.78,4,1,1
+Contractors,27854.45,10,0,0
+Hosting & Software,9703.35,15,0,0
+Hosting & Software,9431.0,17,0,0
+Hosting & Software,8977.09,16,0,0
+Office Supplies,1373.89,12,0,0
+Hosting & Software,9138.45,10,0,0
+Office Supplies,1190.87,10,0,0
+Contractors,23815.91,9,1,0
+Office Supplies,1305.85,14,0,0
+Travel & Commute,616.37,18,0,0
+Travel & Commute,1062.93,10,0,0
+Food & Meals,283.18,12,0,0
+Utilities,4049.01,16,0,0
+Food & Meals,346.82,9,0,0
+Food & Meals,632.02,19,0,0
+Office Supplies,1935.58,14,0,0
+Hosting & Software,8096.42,15,0,0
+Food & Meals,480.56,12,0,0
+Food & Meals,571.17,15,0,0
+Utilities,4043.68,13,1,0
+Contractors,21348.17,9,0,0
+Contractors,26082.29,9,0,0
+Contractors,25227.86,13,0,0
+Travel & Commute,469.68,14,0,0
+Travel & Commute,1028.79,19,0,0
+Contractors,28169.6,11,0,0
+Contractors,14874.29,13,0,0
+Office Supplies,1574.58,11,1,0
+Hosting & Software,7007.32,15,0,0
+Travel & Commute,770.49,14,0,0
+Hosting & Software,6811.22,13,0,0
+Food & Meals,721.32,13,0,0
+Hosting & Software,8757.48,16,0,0
+Travel & Commute,773.15,12,0,0
+Contractors,18998.52,15,0,0
+Utilities,3232.4,15,1,0
+Utilities,3120.04,14,0,0
+Contractors,21733.35,15,0,0
+Hosting & Software,10648.18,12,0,0
+Utilities,3823.99,17,0,0
+Utilities,2491.29,10,0,0
+Food & Meals,979.47,13,0,0
+Office Supplies,2348.86,9,0,0
+Food & Meals,1008.12,12,0,0
+Travel & Commute,296.13,14,0,0
+Contractors,22578.83,17,0,0
+Contractors,31334.56,15,0,0
+Food & Meals,573.08,13,1,0
+Hosting & Software,8665.73,16,0,0
+Hosting & Software,16408.02,3,1,1
+Office Supplies,1809.85,12,0,0
+Food & Meals,6156.39,18,0,1
+Office Supplies,6163.38,4,0,1
+Office Supplies,1129.23,17,0,0
+Travel & Commute,588.09,12,0,0
+Travel & Commute,100.0,18,1,0
+Travel & Commute,395.12,17,0,0
+Travel & Commute,549.49,9,0,0
+Hosting & Software,6128.33,12,0,0
+Office Supplies,2152.96,9,0,0
+Food & Meals,392.46,10,0,0
+Hosting & Software,7339.93,10,0,0
+Travel & Commute,626.15,9,0,0
+Contractors,32206.37,16,0,0
+Office Supplies,8427.37,13,0,1
+Food & Meals,391.03,16,1,0
+Office Supplies,1965.27,11,1,0
+Hosting & Software,8015.35,18,0,0
+Hosting & Software,6527.74,18,0,0
+Food & Meals,865.53,15,1,0
+Contractors,25995.3,19,0,0
+Utilities,3019.83,12,0,0
+Travel & Commute,613.96,16,0,0
+Contractors,107032.72,8,1,1
+Travel & Commute,522.94,16,1,0
+Office Supplies,13084.42,14,0,1
+Travel & Commute,622.7,18,0,0
+Utilities,4029.7,10,0,0
+Contractors,32930.08,15,0,0
+Contractors,125025.63,11,0,1
+Utilities,2509.75,11,0,0
+Travel & Commute,1026.61,14,0,0
+Hosting & Software,5071.87,13,0,0
+Food & Meals,712.05,18,0,0
+Contractors,27941.59,18,0,0
+Contractors,26404.96,11,0,0
+Hosting & Software,7065.95,14,1,0
+Travel & Commute,558.38,15,1,0
+Contractors,22535.0,9,1,0
+Utilities,3028.51,15,0,0
+Travel & Commute,769.92,14,0,0
+Utilities,3785.61,9,0,0
+Utilities,22261.8,15,0,1
+Food & Meals,576.77,15,0,0
+Utilities,4219.68,15,0,0
+Contractors,26536.5,16,0,0
+Hosting & Software,47688.91,1,0,1
+Travel & Commute,762.57,12,0,0
+Hosting & Software,8944.44,10,1,0
+Contractors,20855.02,11,0,0
+Contractors,22199.09,17,0,0
+Hosting & Software,12507.63,1,1,1
+Food & Meals,936.82,14,0,0
+Utilities,3988.3,19,0,0
+Office Supplies,1491.64,14,0,0
+Utilities,3593.86,14,1,0
+Office Supplies,2011.07,18,0,0
+Office Supplies,1263.37,13,0,0
+Travel & Commute,709.42,11,1,0
+Contractors,23989.04,17,0,0
+Hosting & Software,7673.48,19,0,0
+Travel & Commute,819.76,13,0,0
+Utilities,4160.33,19,1,0
+Contractors,29067.55,18,0,0
+Food & Meals,1076.37,18,0,0
+Utilities,3516.8,19,0,0
+Food & Meals,3808.85,8,0,1
+Hosting & Software,9022.93,13,0,0
+Office Supplies,5537.74,2,1,1
+Food & Meals,672.43,9,0,0
+Utilities,3759.33,14,0,0
+Utilities,3395.89,9,0,0
+Hosting & Software,8145.49,10,0,0
+Travel & Commute,1293.98,4,1,1
+Utilities,3976.13,11,0,0
+Hosting & Software,6772.67,14,0,0
+Office Supplies,2336.95,19,0,0
+Hosting & Software,16638.77,3,1,1
+Contractors,19969.91,18,0,0
+Hosting & Software,13697.14,3,1,1
+Hosting & Software,6178.72,19,0,0
+Utilities,4426.49,10,0,0
+Food & Meals,947.92,14,0,0
+Contractors,28120.6,19,0,0
+Office Supplies,1751.34,15,0,0
+Office Supplies,1495.1,11,0,0
+Hosting & Software,6654.12,16,0,0
+Travel & Commute,615.16,13,0,0
+Office Supplies,1229.14,17,0,0
+Utilities,19918.44,19,0,1
+Utilities,4280.1,11,0,0
+Contractors,24264.71,11,0,0
+Office Supplies,1169.8,19,0,0
+Food & Meals,669.65,16,0,0
+Travel & Commute,682.59,16,0,0
+Travel & Commute,487.26,18,0,0
+Food & Meals,544.44,15,0,0
+Food & Meals,810.92,12,0,0
+Travel & Commute,648.99,9,0,0
+Hosting & Software,7239.59,10,0,0
+Utilities,3123.17,13,1,0
+Travel & Commute,646.41,17,0,0
+Food & Meals,6812.64,14,0,1
+Office Supplies,920.77,15,0,0
+Travel & Commute,318.51,10,0,0
+Office Supplies,1212.62,10,0,0
+Contractors,23932.76,11,0,0
+Hosting & Software,8466.36,16,0,0
+Travel & Commute,895.07,16,0,0
+Office Supplies,1843.06,9,0,0
+Travel & Commute,568.01,18,0,0
+Office Supplies,1492.39,12,0,0
+Office Supplies,1098.99,19,0,0
+Food & Meals,3743.89,0,0,1
+Contractors,24907.43,15,1,0
+Hosting & Software,7567.01,15,0,0
+Contractors,91729.96,16,0,1
+Food & Meals,830.68,9,0,0
+Hosting & Software,6759.15,9,0,0
+Office Supplies,1707.74,19,0,0
+Utilities,4726.19,14,0,0
+Hosting & Software,7836.86,19,0,0
+Contractors,27008.56,16,0,0
+Travel & Commute,2155.48,6,0,1
+Travel & Commute,738.03,14,0,0
+Utilities,3179.02,17,0,0
+Office Supplies,1589.64,12,0,0
+Office Supplies,1505.04,14,0,0
+Hosting & Software,8146.51,15,0,0
+Food & Meals,556.75,11,0,0
+Food & Meals,756.13,17,0,0
+Office Supplies,1699.2,10,0,0
+Travel & Commute,890.23,14,0,0
+Hosting & Software,9438.91,13,0,0
+Contractors,35765.91,16,0,0
+Office Supplies,1193.06,14,0,0
+Food & Meals,968.08,9,1,0
+Contractors,25916.71,17,0,0
+Contractors,35949.01,9,0,0
+Utilities,2853.36,16,1,0
+Office Supplies,1164.11,19,0,0
+Food & Meals,600.15,9,0,0
+Contractors,14380.52,14,0,0
+Office Supplies,1289.7,17,0,0
+Hosting & Software,6861.3,12,0,0
+Office Supplies,1560.16,16,0,0
+Utilities,3773.4,13,0,0
+Travel & Commute,975.23,13,0,0
+Food & Meals,987.61,11,0,0
+Food & Meals,605.77,16,0,0
+Contractors,20507.93,14,0,0
+Contractors,48388.59,3,1,1
+Travel & Commute,698.38,19,0,0
+Hosting & Software,6019.65,10,0,0
+Travel & Commute,966.29,16,1,0
+Utilities,4443.55,16,0,0
+Utilities,3124.66,10,1,0
+Food & Meals,321.72,16,0,0
+Food & Meals,1088.47,10,0,0
+Hosting & Software,7828.19,16,0,0
+Utilities,4490.25,17,0,0
+Travel & Commute,281.11,11,0,0
+Office Supplies,1260.25,17,0,0
+Travel & Commute,601.05,12,0,0
+Utilities,3537.58,10,0,0
+Contractors,22749.67,13,0,0
+Hosting & Software,8934.27,10,0,0
+Travel & Commute,386.48,18,0,0
+Contractors,24288.1,18,0,0
+Utilities,18921.4,18,0,1
+Hosting & Software,8180.44,18,0,0
+Contractors,57959.16,3,1,1
+Food & Meals,878.61,19,0,0
+Food & Meals,4342.8,15,0,1
+Food & Meals,927.9,14,0,0
+Hosting & Software,6313.04,14,0,0
+Hosting & Software,5698.83,11,0,0
+Utilities,4522.14,14,0,0
+Office Supplies,1632.93,12,0,0
+Office Supplies,1200.61,15,0,0
+Food & Meals,1137.79,11,0,0
+Utilities,3592.54,12,0,0
+Food & Meals,1044.82,16,0,0
+Hosting & Software,8101.28,10,0,0
+Utilities,5148.6,12,0,0
+Hosting & Software,37897.88,20,1,1
+Hosting & Software,10633.01,10,0,0
+Hosting & Software,7626.55,15,0,0
+Food & Meals,1343.99,23,1,1
+Hosting & Software,17404.25,23,1,1
+Hosting & Software,9457.36,18,0,0
+Office Supplies,1758.15,10,0,0
+Hosting & Software,10052.95,14,0,0
+Travel & Commute,407.02,15,0,0
+Office Supplies,2999.34,4,1,1
+Utilities,4048.84,18,0,0
+Travel & Commute,811.68,18,0,0
+Food & Meals,310.32,13,0,0
+Utilities,2553.39,17,0,0
+Utilities,1868.61,9,0,0
+Contractors,23652.97,15,0,0
+Contractors,28587.71,19,1,0
+Food & Meals,1125.59,19,0,0
+Utilities,3559.28,9,0,0
+Travel & Commute,925.72,18,0,0
+Food & Meals,404.97,19,0,0
+Utilities,2137.29,10,0,0
+Food & Meals,736.11,11,0,0
+Travel & Commute,676.81,18,0,0
+Contractors,24836.53,11,0,0
+Utilities,1846.05,19,0,0
+Food & Meals,727.72,11,0,0
+Utilities,2456.42,14,0,0
+Contractors,28348.36,13,0,0
+Travel & Commute,673.32,13,0,0
+Travel & Commute,412.02,13,0,0
+Contractors,22430.67,16,0,0
+Hosting & Software,6411.18,13,0,0
+Utilities,3449.86,15,0,0
+Food & Meals,988.79,11,0,0
+Hosting & Software,6521.41,10,0,0
+Food & Meals,876.01,16,0,0
+Utilities,3075.79,17,0,0
+Travel & Commute,441.43,18,0,0
+Office Supplies,1457.19,17,0,0
+Travel & Commute,2595.44,15,0,1
+Contractors,19823.79,9,0,0
+Travel & Commute,489.27,16,0,0
+Travel & Commute,360.42,13,0,0
+Contractors,206537.34,12,0,1
+Utilities,5071.78,9,0,0
+Travel & Commute,607.05,11,0,0
+Office Supplies,1220.11,15,0,0
+Travel & Commute,642.8,13,0,0
+Office Supplies,1455.07,18,0,0
+Hosting & Software,7668.55,19,0,0
+Food & Meals,903.54,11,0,0
+Food & Meals,939.38,10,0,0
+Contractors,22347.49,13,0,0
+Office Supplies,1269.67,13,0,0
+Travel & Commute,544.99,19,0,0
+Food & Meals,174.52,10,0,0
+Office Supplies,893.92,11,0,0
+Travel & Commute,2453.28,8,1,1
+Hosting & Software,10050.31,18,1,0
+Contractors,33224.84,12,1,0
+Office Supplies,1400.39,11,0,0
+Utilities,3961.25,13,0,0
+Contractors,26556.25,13,0,0
+Travel & Commute,1215.78,11,0,0
+Food & Meals,1029.89,18,0,0
+Contractors,24360.41,16,0,0
+Contractors,20222.3,12,0,0
+Utilities,2214.84,10,0,0
+Utilities,3662.77,10,0,0
+Office Supplies,4281.5,2,1,1
+Utilities,2894.92,11,0,0
+Utilities,2362.2,19,0,0
+Utilities,2982.74,17,0,0
+Office Supplies,1067.38,17,0,0
+Utilities,18136.72,9,0,1
+Food & Meals,1171.79,9,0,0
+Utilities,15264.63,2,0,1
+Office Supplies,1852.66,16,1,0
+Food & Meals,748.01,11,0,0
+Contractors,32399.72,15,0,0
+Food & Meals,769.34,15,0,0
+Contractors,20693.58,17,0,0
+Hosting & Software,10284.69,17,0,0
+Travel & Commute,707.78,12,0,0
+Office Supplies,1085.1,16,0,0
+Utilities,3347.73,15,0,0
+Travel & Commute,424.88,11,0,0
+Contractors,18086.0,9,0,0
+Food & Meals,981.54,9,0,0
+Office Supplies,2263.77,9,0,0
+Contractors,18007.16,9,0,0
+Office Supplies,1725.19,12,0,0
+Office Supplies,1239.74,13,0,0
+Contractors,22564.37,18,0,0
+Contractors,22038.03,12,0,0
+Travel & Commute,427.2,17,0,0
+Hosting & Software,8072.78,17,0,0
+Contractors,20845.25,19,0,0
+Utilities,3716.37,14,0,0
+Contractors,24748.81,17,0,0
+Food & Meals,690.26,13,0,0
+Utilities,2773.95,12,0,0
+Contractors,22116.14,16,0,0
+Utilities,4104.31,15,0,0
+Travel & Commute,700.18,13,0,0
+Contractors,140445.84,2,0,1
+Office Supplies,1108.98,19,0,0
+Office Supplies,1539.73,12,0,0
+Utilities,4101.11,17,0,0
+Travel & Commute,266.12,14,0,0
+Office Supplies,1717.34,12,0,0
+Office Supplies,1234.95,16,0,0
+Contractors,27852.99,12,0,0
+Travel & Commute,447.35,13,0,0
+Utilities,2056.09,13,0,0
+Utilities,2197.97,16,1,0
+Contractors,25240.42,14,0,0
+Hosting & Software,8389.58,9,0,0
+Travel & Commute,419.14,9,0,0
+Utilities,4010.87,15,0,0
+Travel & Commute,267.7,15,0,0
+Travel & Commute,586.78,19,0,0
+Hosting & Software,6183.48,16,0,0
+Contractors,21740.82,16,0,0
+Hosting & Software,8071.1,17,0,0
+Utilities,2811.67,9,0,0
+Office Supplies,1346.18,19,1,0
+Office Supplies,1902.52,19,0,0
+Contractors,22115.54,12,0,0
+Hosting & Software,20001.06,23,1,1
+Food & Meals,958.92,9,1,0
+Utilities,2596.23,9,0,0
+Hosting & Software,8794.71,13,1,0
+Contractors,32207.84,11,0,0
+Office Supplies,511.34,12,0,0
+Utilities,2862.48,14,0,0
+Food & Meals,3485.62,7,0,1
+Hosting & Software,8865.61,10,0,0
+Contractors,23984.77,10,0,0
+Food & Meals,842.79,9,0,0
+Contractors,21980.07,16,0,0
+Contractors,25432.95,18,0,0
+Office Supplies,1437.73,9,0,0
+Contractors,30838.91,16,0,0
+Office Supplies,1601.77,13,0,0
+Utilities,3770.08,11,0,0
+Hosting & Software,63481.44,15,0,1
+Office Supplies,1335.25,18,0,0
+Food & Meals,628.1,17,0,0
+Contractors,22837.21,10,0,0
+Hosting & Software,32642.88,2,1,1
+Utilities,3815.56,18,0,0
+Hosting & Software,43670.96,14,1,1
+Travel & Commute,515.8,15,0,0
+Contractors,26448.87,15,1,0
+Utilities,5160.32,12,0,0
+Office Supplies,1848.45,15,0,0
+Contractors,23369.88,15,0,0
+Office Supplies,6917.76,8,0,1
+Travel & Commute,2773.27,17,1,1
+Office Supplies,7328.32,19,1,1
+Food & Meals,3352.12,2,0,1
+Utilities,4460.97,19,0,0
+Travel & Commute,518.38,13,0,0
+Office Supplies,684.75,13,0,0
+Food & Meals,497.98,14,0,0
+Travel & Commute,225.84,16,0,0
+Travel & Commute,529.7,11,0,0
+Food & Meals,754.6,18,0,0
+Hosting & Software,10514.66,15,0,0
+Contractors,26634.64,11,0,0
+Utilities,3324.72,12,0,0
+Travel & Commute,765.88,14,0,0
+Contractors,13944.32,18,0,0
+Hosting & Software,8353.42,15,0,0
+Utilities,4116.69,17,0,0
+Utilities,7673.52,2,1,1
+Food & Meals,380.35,10,0,0
+Food & Meals,1035.94,11,0,0
+Travel & Commute,667.7,11,0,0
+Food & Meals,1664.14,4,1,1
+Utilities,3167.77,15,0,0
+Hosting & Software,8949.17,17,0,0
+Office Supplies,2408.28,12,0,0
+Hosting & Software,8272.8,18,1,0
+Contractors,26241.1,15,0,0
+Hosting & Software,7310.96,15,0,0
+Office Supplies,1160.06,17,0,0
+Utilities,4164.27,18,0,0
+Hosting & Software,6715.87,19,0,0
+Utilities,3557.25,9,0,0
+Hosting & Software,7283.51,10,0,0
+Contractors,27394.9,13,0,0
+Travel & Commute,666.73,14,0,0
+Food & Meals,1009.38,16,0,0
+Hosting & Software,13381.02,3,1,1
+Contractors,22449.92,11,0,0
+Contractors,23650.63,11,0,0
+Hosting & Software,6531.85,16,0,0
+Food & Meals,638.93,11,0,0
+Food & Meals,844.33,18,0,0
+Food & Meals,939.25,15,1,0
+Travel & Commute,415.57,10,0,0
+Utilities,4195.68,14,0,0
+Office Supplies,2042.26,16,0,0
+Contractors,27067.17,15,0,0
+Utilities,5001.44,14,0,0
+Utilities,2880.97,19,0,0
+Hosting & Software,6133.02,18,1,0
+Travel & Commute,244.26,12,0,0
+Travel & Commute,899.21,11,0,0
+Food & Meals,913.59,18,0,0
+Travel & Commute,588.88,17,0,0
+Contractors,26399.84,11,0,0
+Food & Meals,468.63,11,0,0
+Food & Meals,1361.44,14,0,0
+Food & Meals,782.31,15,0,0
+Utilities,3587.52,15,0,0
+Food & Meals,931.44,16,0,0
+Office Supplies,1692.4,12,0,0
+Hosting & Software,8335.83,13,0,0
+Food & Meals,552.38,16,0,0
+Office Supplies,1688.59,13,0,0
+Hosting & Software,10823.04,9,0,0
+Food & Meals,1086.36,15,0,0
+Contractors,32965.93,13,0,0
+Office Supplies,1295.51,14,0,0
+Office Supplies,1104.16,10,0,0
+Travel & Commute,574.84,18,0,0
+Contractors,25278.62,15,0,0
+Travel & Commute,818.84,12,0,0
+Utilities,2146.03,13,0,0
+Travel & Commute,905.91,13,0,0
+Hosting & Software,7762.99,17,0,0
+Contractors,22865.59,11,0,0
+Food & Meals,496.97,13,0,0
+Travel & Commute,269.03,11,0,0
+Contractors,29115.85,12,0,0
+Contractors,25366.59,11,0,0
+Hosting & Software,6065.06,15,0,0
+Contractors,18524.61,10,0,0
+Contractors,23321.08,14,0,0
+Food & Meals,1167.26,9,0,0
+Contractors,127177.53,22,1,1
+Office Supplies,1396.16,15,0,0
+Food & Meals,374.21,16,0,0
+Hosting & Software,7631.39,18,0,0
+Food & Meals,681.82,19,0,0
+Office Supplies,5311.06,5,1,1
+Food & Meals,3004.35,22,0,1
+Contractors,11515.57,13,1,0
+Hosting & Software,7918.56,14,0,0
+Contractors,23845.33,15,0,0
+Contractors,28481.03,12,0,0
+Office Supplies,2239.58,9,0,0
+Office Supplies,1950.63,12,0,0
+Food & Meals,1511.52,1,1,1
+Food & Meals,682.78,16,1,0
+Food & Meals,4137.01,14,0,1
+Hosting & Software,6340.21,11,0,0
+Contractors,37866.8,17,0,0
+Utilities,3547.37,16,0,0
+Travel & Commute,602.79,11,0,0
+Utilities,3480.7,12,1,0
+Office Supplies,1579.23,10,0,0
+Food & Meals,713.91,15,0,0
+Travel & Commute,485.27,19,1,0
+Utilities,3062.51,18,0,0
+Contractors,70343.52,2,1,1
+Utilities,3473.8,12,0,0
+Hosting & Software,7184.86,12,0,0
+Office Supplies,1214.86,19,0,0
+Utilities,3585.14,9,0,0
+Hosting & Software,7617.53,18,0,0
+Utilities,4703.19,16,0,0
+Office Supplies,7603.45,12,0,1
+Office Supplies,439.61,15,0,0
+Contractors,30457.53,15,0,0
+Food & Meals,1729.86,2,1,1
+Hosting & Software,60452.19,12,0,1
+Travel & Commute,849.22,15,0,0
+Contractors,14633.05,10,0,0
+Food & Meals,664.33,12,1,0
+Office Supplies,1351.42,10,0,0
+Utilities,9143.89,2,1,1
+Office Supplies,12761.25,11,0,1
+Food & Meals,398.12,17,0,0
+Contractors,21110.92,14,0,0
+Hosting & Software,6334.14,10,0,0
+Office Supplies,2200.91,15,0,0
+Office Supplies,1874.27,18,0,0
+Food & Meals,1067.89,14,1,0
+Utilities,4077.34,11,0,0
+Office Supplies,1048.38,19,0,0
+Travel & Commute,495.1,9,1,0
+Office Supplies,1695.75,16,0,0
+Travel & Commute,355.57,9,0,0
+Contractors,28564.99,15,0,0
+Travel & Commute,551.93,14,0,0
+Office Supplies,1350.07,10,0,0
+Office Supplies,1784.38,17,0,0
+Food & Meals,4248.81,9,1,1
+Office Supplies,1677.71,9,0,0
+Hosting & Software,7458.55,13,0,0
+Travel & Commute,831.87,18,0,0
+Travel & Commute,383.79,17,0,0
+Travel & Commute,723.19,15,1,0
+Utilities,3974.48,9,0,0
+Office Supplies,1376.18,15,0,0
+Contractors,26630.67,12,0,0
+Travel & Commute,349.78,9,0,0
+Travel & Commute,784.81,10,1,0
+Travel & Commute,563.02,17,0,0
+Hosting & Software,7215.92,10,0,0
+Utilities,4339.21,15,1,0
+Utilities,10312.15,2,1,1
+Hosting & Software,6943.48,14,0,0
+Food & Meals,397.88,14,0,0
+Hosting & Software,5665.06,12,0,0
+Utilities,3984.81,10,0,0
+Food & Meals,429.89,10,0,0
+Travel & Commute,950.96,16,0,0
+Office Supplies,2934.48,23,1,1
+Office Supplies,667.23,14,0,0
+Contractors,33482.28,14,0,0
+Office Supplies,1584.41,13,0,0
+Travel & Commute,3381.9,17,0,1
+Office Supplies,1461.31,11,0,0
+Office Supplies,1282.03,12,0,0
+Food & Meals,849.78,19,0,0
+Office Supplies,1484.95,13,0,0
+Office Supplies,8983.13,16,0,1
+Travel & Commute,2283.79,14,0,1
+Travel & Commute,820.66,15,0,0
+Food & Meals,778.56,15,0,0
+Travel & Commute,630.06,11,0,0
+Food & Meals,659.1,9,0,0
+Utilities,3454.44,13,0,0
+Utilities,3746.24,10,0,0
+Travel & Commute,257.97,19,0,0
+Utilities,2421.45,17,0,0
+Food & Meals,935.82,14,0,0
+Food & Meals,792.72,18,0,0
+Food & Meals,704.0,9,0,0
+Travel & Commute,2187.89,15,1,1
+Utilities,3514.75,11,0,0
+Contractors,26737.91,17,0,0
+Contractors,196961.51,15,0,1
+Hosting & Software,7190.36,11,0,0
+Utilities,2877.36,14,0,0
+Office Supplies,1578.34,14,0,0
+Utilities,2717.3,12,0,0
+Food & Meals,852.06,11,0,0
+Office Supplies,2742.32,23,1,1
+Food & Meals,1351.65,2,1,1
+Hosting & Software,5446.12,14,1,0
+Travel & Commute,805.83,11,0,0
+Utilities,3878.08,10,0,0
+Contractors,26280.15,10,0,0
+Hosting & Software,9474.04,11,0,0
+Food & Meals,1166.37,16,0,0
+Travel & Commute,802.87,17,0,0
+Utilities,2027.3,12,0,0
+Travel & Commute,344.08,13,0,0
+Contractors,73076.18,4,1,1
+Utilities,6920.64,23,1,1
+Travel & Commute,475.04,10,0,0
+Travel & Commute,605.22,10,0,0
+Hosting & Software,8776.49,10,0,0
+Contractors,21371.28,14,0,0
+Hosting & Software,8280.15,10,0,0
+Office Supplies,1197.85,9,0,0
+Contractors,21942.41,11,0,0
+Food & Meals,398.33,14,0,0
+Office Supplies,1130.71,18,0,0
+Contractors,18241.58,16,1,0
+Office Supplies,1109.65,14,0,0
+Office Supplies,14159.48,11,0,1
+Contractors,167243.82,18,0,1
+Food & Meals,1013.41,15,0,0
+Travel & Commute,410.12,15,0,0
+Office Supplies,2552.95,12,0,0
+Utilities,3894.65,17,0,0
+Hosting & Software,8277.25,10,1,0
+Utilities,2813.31,16,0,0
+Hosting & Software,51781.98,18,0,1
+Food & Meals,925.08,9,0,0
+Contractors,22121.81,10,0,0
+Office Supplies,1548.8,15,0,0
+Contractors,37800.42,19,0,0
+Travel & Commute,580.79,15,0,0
+Food & Meals,3496.98,7,1,1
+Utilities,8754.21,1,1,1
+Contractors,30746.37,17,0,0
+Utilities,2937.46,9,0,0
+Utilities,3472.01,17,0,0
+Food & Meals,1192.7,12,0,0
+Office Supplies,1249.21,9,0,0
+Utilities,4949.96,19,0,0
+Travel & Commute,741.55,16,0,0
+Travel & Commute,487.51,12,0,0
+Food & Meals,1614.82,2,1,1
+Utilities,4005.93,10,1,0
+Utilities,4278.04,14,0,0
+Utilities,3997.45,9,0,0
+Utilities,2243.82,15,0,0
+Travel & Commute,454.57,18,0,0
+Office Supplies,1400.99,18,0,0
+Hosting & Software,7888.35,14,0,0
+Hosting & Software,8931.01,16,0,0
+Food & Meals,3380.58,19,1,1
+Office Supplies,1571.08,14,0,0
+Office Supplies,965.86,13,0,0
+Office Supplies,1652.08,13,0,0
+Food & Meals,902.65,19,1,0
+Travel & Commute,711.96,16,0,0
+Hosting & Software,9621.17,15,0,0
+Office Supplies,1833.57,12,0,0
+Food & Meals,864.8,17,0,0
+Office Supplies,1471.93,11,1,0
+Contractors,16695.2,11,0,0
+Utilities,3843.69,9,0,0
+Travel & Commute,641.54,12,1,0
+Office Supplies,1608.63,12,0,0
+Food & Meals,430.81,19,0,0
+Contractors,118049.17,14,0,1
+Food & Meals,479.74,14,0,0
+Hosting & Software,9579.73,10,0,0
+Food & Meals,2002.31,2,1,1
+Travel & Commute,592.09,19,0,0
+Contractors,28407.5,9,0,0
+Contractors,205921.44,18,0,1
+Office Supplies,1511.33,18,0,0
+Hosting & Software,8044.63,19,0,0
+Food & Meals,984.57,16,0,0
+Food & Meals,620.99,17,0,0
+Food & Meals,774.03,9,0,0
+Contractors,22688.62,14,0,0
+Utilities,3152.4,13,0,0
+Food & Meals,3826.12,8,1,1
+Contractors,23454.14,19,0,0
+Travel & Commute,644.43,12,0,0
+Utilities,3117.0,14,0,0
+Contractors,149841.82,8,1,1
+Food & Meals,1063.94,9,0,0
+Utilities,2784.31,14,0,0
+Travel & Commute,562.63,19,0,0
+Contractors,22801.34,13,0,0
+Contractors,32234.89,11,0,0
+Food & Meals,799.14,13,0,0
+Utilities,4325.48,11,0,0
+Hosting & Software,5771.66,12,0,0
+Contractors,26335.25,15,0,0
+Hosting & Software,9334.45,18,0,0
+Office Supplies,1532.91,19,0,0
+Utilities,26258.35,15,0,1
+Utilities,4352.38,9,0,0
+Travel & Commute,496.54,12,0,0
+Utilities,4627.48,16,0,0
+Contractors,36494.49,10,0,0
+Contractors,23185.81,14,0,0
+Office Supplies,1321.8,12,0,0
+Travel & Commute,890.68,11,0,0
+Office Supplies,2131.83,15,0,0
+Food & Meals,619.28,16,0,0
+Office Supplies,1331.93,14,0,0
+Hosting & Software,7577.32,17,0,0
+Contractors,46830.87,3,1,1
+Hosting & Software,5983.32,15,0,0
+Hosting & Software,6622.02,9,0,0
+Hosting & Software,6493.79,17,0,0
+Hosting & Software,6848.3,19,0,0
+Hosting & Software,7947.97,16,0,0
+Travel & Commute,646.84,15,1,0
+Travel & Commute,910.1,11,0,0
+Office Supplies,1100.66,11,0,0
+Contractors,29921.61,9,0,0
+Contractors,23930.06,17,0,0
+Utilities,3460.43,19,0,0
+Office Supplies,10625.82,15,0,1
+Office Supplies,1769.93,16,0,0
+Travel & Commute,375.46,19,1,0
+Food & Meals,845.6,19,0,0
+Utilities,3633.16,11,0,0
+Office Supplies,1696.98,18,0,0
+Office Supplies,1615.67,16,0,0
+Travel & Commute,1091.06,17,0,0
+Hosting & Software,7043.39,13,0,0
+Utilities,3075.2,12,0,0
+Food & Meals,594.21,9,1,0
+Office Supplies,1277.81,18,0,0
+Travel & Commute,472.52,17,1,0
+Contractors,30945.08,13,0,0
+Food & Meals,1105.13,13,0,0
+Office Supplies,14056.05,13,0,1
+Hosting & Software,7143.88,14,0,0
+Office Supplies,7572.54,11,0,1
+Contractors,20838.22,14,0,0
+Food & Meals,867.85,13,0,0
+Office Supplies,1279.11,14,0,0
+Food & Meals,908.23,16,0,0
+Food & Meals,800.73,16,0,0
+Contractors,17421.28,11,0,0
+Contractors,32737.53,11,0,0
+Utilities,4936.7,18,0,0
+Travel & Commute,477.44,14,0,0
+Contractors,23061.49,11,0,0
+Food & Meals,821.47,15,0,0
+Office Supplies,1633.78,14,1,0
+Contractors,28292.72,18,0,0
+Travel & Commute,1002.04,19,0,0
+Utilities,3358.44,18,1,0
+Contractors,21008.51,16,0,0
+Contractors,18103.4,11,0,0
+Utilities,2915.26,18,1,0
+Contractors,24834.37,17,0,0
+Food & Meals,1198.64,10,0,0
+Hosting & Software,7223.58,13,1,0
+Travel & Commute,644.76,15,0,0
+Travel & Commute,3301.89,14,0,1
+Food & Meals,745.89,10,0,0
+Contractors,30941.97,10,0,0
+Office Supplies,2510.77,9,0,0
+Utilities,3075.3,19,0,0
+Utilities,3108.45,19,0,0
+Hosting & Software,9566.24,9,0,0
+Food & Meals,920.47,18,0,0
+Contractors,34233.54,16,0,0
+Contractors,27919.64,14,0,0
+Contractors,23203.54,13,0,0
+Hosting & Software,8885.98,9,0,0
+Food & Meals,1027.18,15,0,0
+Utilities,4156.39,10,0,0
+Food & Meals,876.82,12,0,0
+Office Supplies,1926.67,9,0,0
+Contractors,30846.48,16,0,0
+Utilities,4605.73,11,0,0
+Office Supplies,1759.48,9,0,0
+Food & Meals,708.22,16,0,0
+Travel & Commute,629.34,11,0,0
+Travel & Commute,841.3,19,0,0
+Hosting & Software,6774.6,15,0,0
+Utilities,3794.94,12,0,0
+Hosting & Software,7409.99,16,0,0
+Travel & Commute,605.75,17,0,0
+Contractors,31392.26,14,0,0
+Utilities,3652.88,12,0,0
+Contractors,25232.18,14,0,0
+Travel & Commute,328.03,19,0,0
+Travel & Commute,749.25,19,0,0
+Office Supplies,1758.19,17,0,0
+Utilities,5230.6,15,0,0
+Utilities,3253.78,15,0,0
+Utilities,3675.32,15,0,0
+Contractors,134386.56,5,1,1
+Contractors,26246.92,9,0,0
+Hosting & Software,10366.18,17,1,0
+Food & Meals,726.18,19,0,0
+Travel & Commute,655.8,17,0,0
+Utilities,3986.32,13,0,0
+Office Supplies,1574.64,15,0,0
+Contractors,22767.83,17,1,0
+Contractors,25970.45,18,0,0
+Food & Meals,1018.41,19,0,0
+Contractors,19867.42,18,0,0
+Utilities,3606.38,12,0,0
+Travel & Commute,459.98,10,0,0
+Travel & Commute,839.01,10,0,0
+Food & Meals,369.2,13,0,0
+Utilities,3052.86,9,0,0
+Contractors,26886.06,9,0,0
+Hosting & Software,10348.29,19,0,0
+Contractors,24671.25,18,0,0
+Office Supplies,1277.92,14,0,0
+Travel & Commute,976.23,17,0,0
+Utilities,2341.59,10,0,0
+Travel & Commute,160.24,14,0,0
+Travel & Commute,688.0,18,0,0
+Utilities,3098.36,19,1,0
+Contractors,19893.84,12,0,0
+Utilities,4066.69,12,0,0
+Contractors,26219.0,15,0,0
+Office Supplies,1274.37,17,0,0
+Office Supplies,987.88,14,0,0
+Utilities,4197.97,9,0,0
+Contractors,28251.01,17,1,0
+Office Supplies,1460.33,17,0,0
+Contractors,61106.79,2,1,1
+Contractors,34233.18,10,0,0
+Contractors,19649.58,15,0,0
+Office Supplies,889.79,11,1,0
+Contractors,21540.46,10,1,0
+Travel & Commute,590.88,17,1,0
+Travel & Commute,648.67,15,0,0
+Contractors,23793.82,14,1,0
+Contractors,26760.28,9,0,0
+Utilities,8324.44,1,1,1
+Hosting & Software,6122.69,10,0,0
+Contractors,32218.82,10,0,0
+Food & Meals,729.46,19,1,0
+Travel & Commute,823.46,11,0,0
+Utilities,3774.18,19,0,0
+Contractors,27283.77,19,0,0
+Office Supplies,1727.91,17,0,0
+Office Supplies,3136.68,23,1,1
+Office Supplies,1679.08,14,0,0
+Contractors,28213.61,11,0,0
+Travel & Commute,865.83,13,0,0
+Travel & Commute,639.3,18,0,0
+Utilities,4067.2,17,1,0
+Contractors,149677.2,18,0,1
+Food & Meals,727.57,14,0,0
+Contractors,32200.59,13,0,0
+Travel & Commute,464.72,16,0,0
+Contractors,34004.7,18,0,0
+Utilities,3467.87,14,0,0
+Travel & Commute,5356.98,15,0,1
+Hosting & Software,5853.84,11,0,0
+Hosting & Software,8192.16,16,0,0
+Hosting & Software,6978.42,10,0,0
+Utilities,19763.74,4,0,1
+Hosting & Software,9260.97,19,1,0
+Office Supplies,1238.95,17,0,0
+Utilities,3143.05,18,0,0
+Office Supplies,744.18,17,0,0
+Utilities,3138.15,11,0,0
+Travel & Commute,115.22,18,0,0
+Hosting & Software,5624.15,17,0,0
+Food & Meals,940.1,9,0,0
+Utilities,4128.64,17,0,0
+Travel & Commute,685.09,18,0,0
+Travel & Commute,406.6,16,0,0
+Office Supplies,1480.92,16,0,0
+Hosting & Software,7994.6,9,0,0
+Utilities,2573.31,14,0,0
+Food & Meals,1125.85,9,0,0
+Hosting & Software,9316.04,17,0,0
+Hosting & Software,7668.55,13,0,0
+Utilities,3521.51,19,0,0
+Utilities,3666.71,10,0,0
+Food & Meals,239.57,12,0,0
+Hosting & Software,7629.23,14,0,0
+Food & Meals,579.5,9,0,0
+Travel & Commute,399.68,12,1,0
+Contractors,23594.5,11,0,0
+Hosting & Software,10696.53,10,0,0
+Food & Meals,910.21,10,0,0
+Food & Meals,607.21,18,0,0
+Food & Meals,4229.57,18,0,1
+Travel & Commute,714.52,17,1,0
+Utilities,4619.48,11,0,0
+Travel & Commute,784.93,15,0,0
+Utilities,3547.7,19,0,0
+Office Supplies,1241.23,18,0,0
+Food & Meals,924.56,15,0,0
+Utilities,3814.79,11,0,0
+Utilities,4216.15,19,0,0
+Food & Meals,908.79,10,0,0
+Food & Meals,1012.39,9,0,0
+Utilities,3071.81,11,0,0
+Travel & Commute,863.48,18,0,0
+Utilities,3658.08,10,1,0
+Contractors,35376.3,18,0,0
+Office Supplies,1224.32,19,0,0
+Utilities,4888.77,9,0,0
+Food & Meals,799.48,16,0,0
+Food & Meals,587.15,18,1,0
+Travel & Commute,503.22,12,0,0
+Office Supplies,1371.86,17,0,0
+Travel & Commute,1610.48,23,1,1
+Utilities,3839.33,9,0,0
+Travel & Commute,704.57,14,0,0
+Office Supplies,1270.52,19,0,0
+Hosting & Software,7963.47,15,0,0
+Utilities,5213.82,19,0,0
+Travel & Commute,945.51,17,0,0
+Hosting & Software,8654.49,16,0,0
+Hosting & Software,8057.01,15,0,0
+Contractors,25600.16,12,0,0
+Contractors,28067.59,10,0,0
+Food & Meals,494.3,17,0,0
+Contractors,23713.12,11,0,0
+Contractors,227906.93,16,0,1
+Utilities,2165.13,10,0,0
+Hosting & Software,68979.79,15,0,1
+Utilities,3819.38,13,0,0
+Utilities,28705.1,16,0,1
+Office Supplies,1758.88,19,0,0
+Utilities,3113.45,9,0,0
+Utilities,4759.19,12,0,0
+Contractors,206877.39,11,0,1
+Office Supplies,1009.69,15,0,0
+Food & Meals,383.91,12,0,0
+Contractors,26122.26,10,0,0
+Contractors,30235.49,18,0,0
+Hosting & Software,10525.89,12,0,0
+Food & Meals,635.28,13,0,0
+Utilities,4362.94,10,0,0
+Hosting & Software,7942.24,17,0,0
+Utilities,3361.9,18,0,0
+Food & Meals,970.91,18,0,0
+Travel & Commute,730.46,16,0,0
+Utilities,2238.89,16,0,0
+Office Supplies,2090.62,12,0,0
+Travel & Commute,876.02,15,0,0
+Utilities,2999.55,13,0,0
+Office Supplies,1658.32,14,1,0
+Travel & Commute,698.81,14,0,0
+Utilities,3708.54,19,0,0
+Travel & Commute,489.94,12,0,0
+Travel & Commute,465.68,12,0,0
+Travel & Commute,594.89,14,0,0
+Office Supplies,1969.09,10,0,0
+Contractors,27718.0,9,0,0
+Utilities,3203.51,16,0,0
+Hosting & Software,9157.55,18,0,0
+Food & Meals,100.0,17,0,0
+Travel & Commute,829.75,11,1,0
+Food & Meals,315.07,17,1,0
+Hosting & Software,7456.34,19,0,0
+Food & Meals,470.08,17,0,0
+Contractors,45403.21,23,1,1
+Office Supplies,982.13,18,0,0
+Travel & Commute,832.17,12,0,0
+Utilities,3125.84,11,0,0
+Travel & Commute,669.3,14,0,0
